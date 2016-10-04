@@ -1,7 +1,8 @@
 # Ma-eLyre
 Création d'une Lyre Maison
 
-4 Pôles
+### 4 Pôles
+
 1-Création d'un cahier des charges. (L'équipe)
 > Ce document vas nous permetre de voir les besoins a la création de la Lyre.
   
